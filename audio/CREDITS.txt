@@ -1,0 +1,10 @@
+Acoustic guitar sample recordings: University of Iowa Electronic Music Studios.
+Sample collection, editing and distribution: Nicholas Brosowsky / tonejs-instruments.
+Source: https://github.com/nbrosowsky/tonejs-instruments
+Source attribution: https://github.com/nbrosowsky/tonejs-instruments/blob/master/sample-source-info.txt
+Samples license: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+License URL: https://creativecommons.org/licenses/by/3.0/
+Changes in this application: playback onset trim, pitch interpolation for missing note, velocity gain/filter, strum timing, envelopes and convolution ambience.
+Muted/percussive articulation is derived from these guitar samples, not a separately recorded guitar slap.
+
+Revision 3: gentle spectral denoising (8 dB), 45 Hz high-pass and 6.5 kHz low-pass; samples limited to 6 seconds. Original recordings remain in source history.
